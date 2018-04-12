@@ -3,6 +3,8 @@ javascript: (function () {
   document.body.innerHTML += "<style>*{outline: 1px solid #FF0000 !important;}</style>";
 })();
 
+
+
 // Highlight all links in the page
 javascript: (function () {
   var _a = document.getElementsByTagName('a');
@@ -11,6 +13,8 @@ javascript: (function () {
   }
 })();
 
+
+
 // Hide all iframes in the page. The iframes are set as hidden to preserve page layout
 javascript: (function () {
   var _iframe = document.getElementsByTagName('iframe');
@@ -18,6 +22,8 @@ javascript: (function () {
     _iframe[i].style.visibility = 'hidden';
   }
 })();
+
+
 
 // Hide all images in the page. The images are set as hidden to preserve page layout
 // the last line also removes the images used as a background
@@ -37,6 +43,8 @@ javascript: (function () {
   // Removes the images used as background
   document.body.innerHTML += "<style>*{background-image: none !important;}</style>";
 })();
+
+
 
 // Check all checkbox in the page
 javascript: (function () {
