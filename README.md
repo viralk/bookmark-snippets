@@ -7,7 +7,8 @@ In order to use the functions, just copy the desired snippet and paste it as a U
 In the index.js file you can find the following functions at the moment:
 - Highlight all elements in the page
 - Highlight all links in the page
-- Remove all iframes in the page
+- Hide all iframes in the page
+- Hide all images in the page
 - Check all checkbox in the page
 
 New functions will be added soon...
