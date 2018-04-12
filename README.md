@@ -1,4 +1,4 @@
-# bookmark-snippets
+# Bookmark-snippets
 A small collection of snippet to use as browser bookmarks
 
 ## Getting started
@@ -18,4 +18,4 @@ boolmark-snippets is a simple and minimalist collection of useful snippets desig
 Snippets as bookmarks are easy to setup, use and modify as needed.
 
 ### How can I contribute?
-the snippets currently present are those I use every day. Whenever I have a need I will add any snippet created to the list. If you have any snippets you use or plan to propose more efficient snippets than those present just do a pull request
+The snippets currently present are those I use every day. Whenever I have a need I will add any snippet created to the list. If you have any snippets you use or plan to propose more efficient snippets than those present just do a pull request
