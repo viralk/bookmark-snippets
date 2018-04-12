@@ -14,7 +14,7 @@ In the index.js file you can find the following functions at the moment:
 New functions will be added soon...
 
 ### Why use the snippets?
-boolmark-snippets is a simple and minimalist collection of useful snippets designed to facilitate the daily work of the web developer. You may ask why not simply use browser extensions and the reasons are that extensions many times offer too much more than necessary, as well as having to install different extensions for each function
+Bookmark-snippets is a simple collection of useful snippets designed to facilitate the daily work of the web developer. You may ask why not simply use browser extensions and the reasons are that extensions many times offer too much more than necessary, as well as having to install different extensions for each function
 
 Snippets as bookmarks are easy to setup, use and modify as needed.
 
