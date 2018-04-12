@@ -28,17 +28,9 @@ javascript: (function () {
 // Hide all images in the page. The images are set as hidden to preserve page layout
 // the last line also removes the images used as a background
 javascript: (function () {
-  var _img = document.getElementsByTagName('img');
-  var _canvas = document.getElementsByTagName('canvas');
-  var _svg = document.getElementsByTagName('svg');
+  var _img = document.querySelectorAll('img,canvas,svg');
   for (var i = 0; i < _img.length; i++) {
     _img[i].style.visibility = "hidden";
-  }
-  for (var i = 0; i < _canvas.length; i++) {
-    _canvas[i].style.visibility = "hidden";
-  }
-  for (var i = 0; i < _svg.length; i++) {
-    _svg[i].style.visibility = "hidden";
   }
   // Removes the images used as background
   document.body.innerHTML += "<style>*{background-image: none !important;}</style>";
